@@ -1,4 +1,4 @@
-"J:\clion\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=J:/clion/CLion 2022.2.3/bin/ninja/win/ninja.exe" -G Ninja -S C:\Users\maksm\Desktop\osnProgC++ -B C:\Users\maksm\Desktop\osnProgC++\cmake-build-debug
+"J:\clion\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=J:/clion/CLion 2022.2.3/bin/ninja/win/ninja.exe" -G Ninja -S C:\Users\maksm\Desktop\todolist\TechnProg\osnProgC++ -B C:\Users\maksm\Desktop\todolist\TechnProg\osnProgC++\cmake-build-debug
 -- The C compiler identification is GNU 11.2.0
 -- The CXX compiler identification is GNU 11.2.0
 -- Detecting C compiler ABI info
@@ -12,5 +12,14 @@
 -- Detecting CXX compile features
 -- Detecting CXX compile features - done
 -- Configuring done
--- Generating done
--- Build files have been written to: C:/Users/maksm/Desktop/osnProgC++/cmake-build-debug
+CMake Error at CMakeLists.txt:6 (add_executable):
+  Cannot find source file:
+
+    main.cpp
+
+
+CMake Error at CMakeLists.txt:6 (add_executable):
+  No SOURCES given to target: osnProgC__
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
