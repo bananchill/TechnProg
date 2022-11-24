@@ -44,7 +44,6 @@ void showMatrix(int const *const *const matrix, const size_t matrixSize) {
         std::cout << std::endl;
     }
     std::cout << "--------------------------------------------------------------" << std::endl;
-
 }
 
 float **Decision(int const *const *const A, const size_t matrixSize) { //Функция рассчётов
@@ -98,7 +97,6 @@ void deleteMatrix(float **matrix, const size_t matrixSize) {
     }
     delete[] matrix;
 }
-
 
 int main() {
     setlocale(LC_ALL, "Russian");

@@ -71,7 +71,6 @@ void printMatrix(int **matrix, const size_t matrixSize) {
         std::cout << std::endl;
     }
     std::cout << "--------------------------------------------------------------" << std::endl;
-
 }
 
 int main() {
