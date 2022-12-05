@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/maksm/Desktop/osnProgC++
+# Install script for directory: C:/Users/maksm/Desktop/todolist/TechnProg/osnProgC++
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/maksm/Desktop/osnProgC++/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/maksm/Desktop/todolist/TechnProg/osnProgC++/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

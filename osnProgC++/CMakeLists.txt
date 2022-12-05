@@ -3,4 +3,4 @@ project(osnProgC__)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(osnProgC__ main.cpp)
+add_executable(osnProgC__ string.cpp)

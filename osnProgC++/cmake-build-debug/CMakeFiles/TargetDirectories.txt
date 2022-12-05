@@ -1,0 +1,3 @@
+C:/Users/maksm/Desktop/todolist/TechnProg/osnProgC++/cmake-build-debug/CMakeFiles/osnProgC__.dir
+C:/Users/maksm/Desktop/todolist/TechnProg/osnProgC++/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/maksm/Desktop/todolist/TechnProg/osnProgC++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
